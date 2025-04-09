@@ -1,4 +1,4 @@
-class Oval {
+class Ball {
    constructor(track, radius, speed, soundFrequency, hue) {
       this.track = track;
       this.radius = radius;
